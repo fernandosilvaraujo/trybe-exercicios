@@ -6,3 +6,4 @@ for(let index=0; index<numbers.length; index++){
     }
 }
 console.log(menor);
+// console.log(numbers[numbers.length-1]);
